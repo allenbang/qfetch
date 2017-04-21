@@ -1,5 +1,5 @@
 #qfetch
-
+ 
 ###简介
 qfetch是一个数据迁移工具，利用七牛提供的[fetch](http://developer.qiniu.com/docs/v6/api/reference/rs/fetch.html)功能来抓取指定文件列表中的文件。在文件列表中，你只需要提供资源的外链地址和要保存在七牛空间中的文件名就可以了。
 
